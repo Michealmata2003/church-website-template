@@ -1,0 +1,58 @@
+export const SermonData = [
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/group-people-holding-hands-praying-worship-believe_1150-14875.jpg?size=626&ext=jpg&ga=GA1.1.1192990619.1710964322&semt=sph",
+      "title": "Finding Peace in Turbulent Times",
+      "sermoner": "Pastor John Smith",
+      "short_description": "Discover how to find peace amidst the chaos of life.",
+      "full_description": "In this sermon, Pastor John Smith explores the teachings of Jesus about finding peace in difficult times. He emphasizes the importance of faith, prayer, and community support.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23906.jpg?size=626&ext=jpg&ga=GA1.1.1192990619.1710964322&semt=sph",
+      "title": "The Power of Prayer",
+      "sermoner": "Reverend Sarah Johnson",
+      "short_description": "Learn about the transformative power of prayer.",
+      "full_description": "Reverend Sarah Johnson delves into the significance of prayer in our daily lives. She shares personal anecdotes and biblical stories that highlight the impact of sincere and consistent prayer.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+      "title": "Living a Life of Gratitude",
+      "sermoner": "Pastor Michael Brown",
+      "short_description": "Embrace gratitude and transform your life.",
+      "full_description": "Pastor Michael Brown discusses the importance of gratitude and how it can change our perspective on life. He provides practical tips on how to cultivate a thankful heart in all circumstances.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/closeup-shot-wooden-speech-stand-with-opened-book_181624-26652.jpg?size=626&ext=jpg&ga=GA1.1.1192990619.1710964322&semt=sph",
+      "title": "Strength in Unity",
+      "sermoner": "Pastor Emily Davis",
+      "short_description": "The power of coming together as a community.",
+      "full_description": "Pastor Emily Davis speaks about the strength we gain when we unite as a community. She shares biblical examples and contemporary stories that illustrate the importance of solidarity and mutual support.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/male-business-executive-giving-speech_107420-63809.jpg?size=626&ext=jpg&ga=GA1.1.1192990619.1710964322&semt=sph",
+      "title": "Walking in Faith",
+      "sermoner": "Reverend David Wilson",
+      "short_description": "Trusting God's plan for our lives.",
+      "full_description": "Reverend David Wilson encourages us to walk in faith, trusting that God has a plan for each of us. He offers insights on how to strengthen our faith and remain steadfast in our beliefs.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-photo/bible-wood_1150-17659.jpg?size=626&ext=jpg&ga=GA1.1.1192990619.1710964322&semt=sph",
+      "title": "The Joy of Giving",
+      "sermoner": "Pastor Lisa Thompson",
+      "short_description": "The blessings of a generous heart.",
+      "full_description": "Pastor Lisa Thompson highlights the joy that comes from giving to others. She explains how generosity not only benefits the recipient but also brings immense joy and fulfillment to the giver.",
+      "date": "JAN 4 2024 on JAN 4 on 1:34 - 2:30",
+    },
+
+  ]
+  

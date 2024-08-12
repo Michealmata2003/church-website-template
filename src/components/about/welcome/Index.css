@@ -1,0 +1,14 @@
+.aboutsection{
+    background-color: #ffffff;
+    width: 75%;
+    margin: auto;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+    display: flex ;
+    position: absolute;
+    bottom: 30px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,29 @@
+.about {
+  background-image: radial-gradient( #2d1f1d 0% , rgba(255, 255, 255, 0) 100%), url('../../assets/newhere.jpg');
+  background-position: top center;
+  background-size: cover;
+  height: 70vh;
+  position: relative;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+.about-hero-name{
+  font-size: 3rem;
+  color: white;
+  z-index: 4;
+  line-height: 110.5%;
+  padding-top: 2rem;
+
+}
+.about-hero-name::after{
+  content: "";
+  height: 25px;
+  left: 19%;
+  position: absolute;
+  top: 65%;
+  width: 62%;
+  z-index: 1;
+  background: rgb(236, 16, 12);
+
+}
